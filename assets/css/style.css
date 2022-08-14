@@ -635,7 +635,7 @@ section {
 @media (min-width: 992px) {
   .services .nav-menu {
     padding-left: 100vh;
-    padding-top: 9vh;
+    padding-top: 3vh;
   }
 }
 
